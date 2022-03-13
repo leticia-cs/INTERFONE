@@ -10,3 +10,6 @@ v1:
 
 v1.2:
 - Reconhece cálculo divisão. Ainda há muitos problemas.
+
+v2.1:
+- Código refeito em base para teste das funções.
