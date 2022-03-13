@@ -7,9 +7,7 @@ v1:
    - Número do apartamento
    - Número do andar
    - Direção para onde andar
-
-v1.2:
-- Reconhece cálculo divisão. Ainda há muitos problemas.
+- Todo quebrado
 
 v2.1:
 - Código refeito em base para teste das funções.
