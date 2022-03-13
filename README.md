@@ -13,3 +13,8 @@ v1.2:
 
 v2.1:
 - Código refeito em base para teste das funções.
+
+v2.2:
+- Tudo está funcionando.
+- Voilá! É a versão definitiva.
+- Claro, válido apenas para número de três e quatro dígitos.
